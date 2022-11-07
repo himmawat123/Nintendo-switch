@@ -1,0 +1,192 @@
+#title{
+  background-color: #fc4736;
+  color:#fff;
+}
+
+h1{
+  font-family: 'Mitr', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+
+.container-fluid {
+  padding: 5% 15%;
+
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+
+  font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;
+font-weight:bold;
+
+}
+
+.nav-item{
+  padding: 0 18px
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+.download-button{
+  margin:15% 5% 5% 0;
+  font-size: 24px;
+  border: 2px solid #fff;
+}
+
+.title-imge{
+  width: 120%
+
+}
+
+.title-imge{
+  transform: rotate(0deg);
+}
+.title-imge{
+  margin-top: 15%;
+  margin-left: 7%
+}
+#features{
+  background-color:	#00BFFF;
+  color:#FFF;
+}
+.container-fluid {
+  padding: 5% 15%;
+
+}
+.title-imge4{
+  width: 100%
+}
+.title-imge4{
+  margin-bottom:5%;
+  margin-left: 7%
+}
+.title-imge4{
+  transform: rotate(-25deg);
+}
+h1{
+  font-family: 'Mitr', sans-serif;
+  font-size: 3rem;
+  line-height: 2.5;
+
+}
+h2{
+  font-family: 'Mitr', sans-serif;
+
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-left: 10%;
+}
+
+
+#featuresgame{
+  background-color:#FFF;
+  color:black;
+
+}
+
+h3{
+  font-family: 'Mitr', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 5%;
+}
+h2{
+  font-family: 'Mitr', sans-serif;
+
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.download-button{
+  margin:15% 5% 5% 0;
+  font-size: 24px;
+  border: 2px solid #fff;
+}
+
+.title-imge1{
+  width: 100%
+
+}
+.title-imge2{
+  width: 100%
+}
+.title-imge3{
+  width: 100%
+}
+.title-imge1{
+  margin-top: 7%
+}
+.title-imge2{
+  margin-top: 7%
+}
+.title-imge3{
+  margin-top: 7%
+}
+#features1{
+  background-color:#6A5ACD;
+  color:#FFF;
+}
+.container-fluid {
+  padding: 5% 15%;
+
+}
+.title-imge5{
+    width: 100%;
+}
+.title-imge5{
+ position:relative
+}
+#featuresgame1{
+  background-color:#FFF;
+  color:black;
+
+}
+
+h3{
+  font-family: 'Mitr', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 5%;
+}
+h2{
+  font-family: 'Mitr', sans-serif;
+
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.title-imge1{
+  width: 100%
+
+}
+.title-imge2{
+  width: 100%
+}
+.title-imge3{
+  width: 100%
+}
+.title-imge1{
+  margin-top: 7%
+}
+.title-imge2{
+  margin-top: 7%
+}
+.title-imge3{
+  margin-top: 7%
+}
+
+#member{
+  text-align: center
+}
+.title-imge{
+  width:400px;
+  height: 350px;
+}
